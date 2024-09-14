@@ -55,9 +55,6 @@ Here are a few key projects I've worked on:
 - **Freelancer App**: Built a mobile application similar to Freelancer, connecting freelancers with clients and managing project workflows.
 
 ## Language Status
-- **JavaScript**: 60% use
-- **TypeScript**: 80% use
-- **PHP Laravel**: 40% use
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedgeh&layout=compact&theme=radical)](https://github.com/naveedgeh/github-readme-stats)     ## 📈 GitHub Stats
 ![Naveed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveedgeh&show_icons=true&theme=radical)
