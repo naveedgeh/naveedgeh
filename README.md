@@ -4,19 +4,27 @@
 I'm a highly skilled Full Stack Developer with over 5 years of experience in building scalable and robust web and mobile applications. My expertise lies in the **MERN Stack**, **Next.js**, and **React Native**, along with deep knowledge of **DevOps** and **Cloud Solutions** on **AWS**. I am passionate about delivering high-quality solutions and continuously exploring new technologies to enhance my skill set.
 
 - 💼 Currently working on developing scalable cloud-based applications and mobile solutions.
-- 🎯 I specialize in Full Stack development using technologies like **React.js**, **Node.js**, **Next.js**, **NestJS**, **MongoDB**, **MySQL**, and **AWS Cloud Services**.
+- 🎯 I specialize in Full Stack development using technologies like **React.js**, **Node.js**, **Next.js**, **NestJS**, **MongoDB**, **MySQL**, **AWS Cloud Services**, and **Laravel**.
 - 🌱 I’m currently learning advanced **DevOps practices** and **serverless architectures** on AWS.
 
 ## Technologies & Tools I Use
+
 ### Frontend
 ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-7289DA?style=flat-square&logo=react&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -26,12 +34,10 @@ I'm a highly skilled Full Stack Developer with over 5 years of experience in bui
 
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-00C853?style=flat-square&logo=continuous-integration&logoColor=white)
-
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## Projects
 Here are a few key projects I've worked on:
@@ -39,6 +45,9 @@ Here are a few key projects I've worked on:
 - **SaaS Salon Booking Platform**: Built a scalable platform where users can book and rate salons and spas, with real-time updates and user feedback.
 - **Mobile Research Tracking App**: Developed an app that helps users track real-time data on stocks and internet trends.
 - **Staff Activity Monitor**: Created a mobile application capable of managing and analyzing large databases for staff activity and reporting.
+
+## Language Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
 
 ---
 
