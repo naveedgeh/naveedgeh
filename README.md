@@ -54,11 +54,8 @@ Here are a few key projects I've worked on:
 - **NFT Marketplace**: Developed a marketplace for trading NFTs, integrating with blockchain technology for secure transactions.
 - **Freelancer App**: Built a mobile application similar to Freelancer, connecting freelancers with clients and managing project workflows.
 
-## Language Status
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedgeh&layout=compact&theme=radical)](https://github.com/naveedgeh/github-readme-stats)     ## 📈 GitHub Stats
-![Naveed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveedgeh&show_icons=true&theme=radical)
-
+## Language Status & 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedgeh&layout=compact&theme=radical)](https://github.com/naveedgeh/github-readme-stats) [![Naveed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveedgeh&show_icons=true&theme=radical)](https://github.com/naveedgeh/github-readme-stats)
 
 ## 📫 How to Reach Me
 You can reach me via email at [mastermindgeh@gmail.com](mailto:mastermindgeh@gmail.com).
