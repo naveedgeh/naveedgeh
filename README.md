@@ -31,9 +31,15 @@ I'm a highly skilled Full Stack Developer with over 5 years of experience in bui
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-00758F?style=flat-square&logo=typeorm&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![DynamicDb](https://img.shields.io/badge/-DynamicDb-00758F?style=flat-square&logo=dynamicdb&logoColor=white)
 
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure Cloud](https://img.shields.io/badge/-Azure%20Cloud-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/-Cloud%20Security-2F4F4F?style=flat-square&logo=cloudsecurity&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -45,8 +51,14 @@ Here are a few key projects I've worked on:
 - **SaaS Salon Booking Platform**: Built a scalable platform where users can book and rate salons and spas, with real-time updates and user feedback.
 - **Mobile Research Tracking App**: Developed an app that helps users track real-time data on stocks and internet trends.
 - **Staff Activity Monitor**: Created a mobile application capable of managing and analyzing large databases for staff activity and reporting.
+- **NFT Marketplace**: Developed a marketplace for trading NFTs, integrating with blockchain technology for secure transactions.
+- **Freelancer App**: Built a mobile application similar to Freelancer, connecting freelancers with clients and managing project workflows.
 
 ## Language Status
+- **JavaScript**: 60% use
+- **TypeScript**: 80% use
+- **PHP Laravel**: 40% use
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
 
 ---
