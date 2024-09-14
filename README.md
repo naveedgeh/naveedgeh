@@ -59,7 +59,14 @@ Here are a few key projects I've worked on:
 - **TypeScript**: 80% use
 - **PHP Laravel**: 40% use
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedgeh&layout=compact&theme=radical)](https://github.com/naveedgeh/github-readme-stats)
+
+## 📫 How to Reach Me
+You can reach me via email at [mastermindgeh@gmail.com](mailto:mastermindgeh@gmail.com).
+
+## 📎 Find Me Online
+- [LinkedIn](https://www.linkedin.com/in/naveed-ahmad-full-stack-developer/)
+- [Upwork](https://www.upwork.com/freelancers/~0155ee24d43bea77cc)
 
 ---
 
