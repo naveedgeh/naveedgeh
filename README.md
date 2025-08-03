@@ -1,7 +1,11 @@
 # Hello, I'm Naveed Ahmad! 👋
 
 ## About Me
-I'm a highly skilled Full Stack Developer with over 5 years of experience in building scalable and robust web and mobile applications. My expertise lies in the **MERN Stack**, **Next.js**, and **React Native**, along with deep knowledge of **DevOps** and **Cloud Solutions** on **AWS**. I am passionate about delivering high-quality solutions and continuously exploring new technologies to enhance my skill set.
+🚀 Full Stack Developer | AI & Automation Expert | DevOps & Cloud Engineer
+
+I’m a highly skilled Full Stack Developer with 5+ years of experience building scalable web and mobile applications. My expertise includes MERN Stack, Next.js, React Native, and DevOps with AWS. I also specialize in Generative AI, automation scripting (n8n, Make.com, Zapier), and integrations like QuickBooks Online.
+
+Currently focused on delivering cloud-native, AI-powered solutions using cutting-edge technologies like NestJS, Django, FastAPI, and serverless architectures on AWS.
 
 - 💼 Currently working on developing scalable cloud-based applications and mobile solutions.
 - 🎯 I specialize in Full Stack development using technologies like **React.js**, **Node.js**, **Next.js**, **NestJS**, **MongoDB**, **MySQL**, **AWS Cloud Services**, and **Laravel**.
