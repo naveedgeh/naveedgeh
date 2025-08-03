@@ -3,7 +3,7 @@
 ## About Me
 🚀 Full Stack Developer | AI & Automation Expert | DevOps & Cloud Engineer
 
-I’m a highly skilled Full Stack Developer with 5+ years of experience building scalable web and mobile applications. My expertise includes MERN Stack, Next.js, React Native, and DevOps with AWS. I also specialize in Generative AI, automation scripting (n8n, Make.com, Zapier), and integrations like QuickBooks Online.
+I’m a highly skilled Full Stack Developer with 12 years of experience building scalable web and mobile applications. My expertise includes MERN Stack, Next.js, React Native, and DevOps with AWS. I also specialize in Generative AI, automation scripting (n8n, Make.com, Zapier), and integrations like QuickBooks Online.
 
 Currently focused on delivering cloud-native, AI-powered solutions using cutting-edge technologies like NestJS, Django, FastAPI, and serverless architectures on AWS.
 
